@@ -24,13 +24,10 @@
    pip install -r requirements.txt
    ```
 
-4. **Insert the Filters**
+4. **Run**
 
-   Open `main.py` fill the FILTERS
+   Open `main.py` fill the FILTERS, and Run `main.py`
 
-5. **Run main.py**
-
-   Run `main.py`
 
 ## Note
 

@@ -32,5 +32,5 @@
 ## Note
 
 Also check my other repo : 
-<br />["Solana Wallet Checker"](https://github.com/ganarkf/solana-wallet-checker)
-<br />["DS Top Traders"](https://github.com/ganarkf/ds-top-traders)
+<br />● [Solana Wallet Checker](https://github.com/ganarkf/solana-wallet-checker)
+<br />● [DS Top Traders](https://github.com/ganarkf/ds-top-traders)
